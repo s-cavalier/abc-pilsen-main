@@ -5,11 +5,11 @@ For viewing the websites, they are listed below.
 
 | Skill Level | Link to GitHub | Link to Website |
 | ----------- | --------------- | --------------- |
-| Beginner | https://github.com/ABC-Pilsen/beginner |
-| Intermediate | https://github.com/ABC-Pilsen/intermediate |
-| Advanced | https://github.com/ABC-Pilsen/advanced |
+| Beginner | https://github.com/ABC-Pilsen/beginner | https://abc-pilsen.github.io/beginner/ |
+| Intermediate | https://github.com/ABC-Pilsen/intermediate | https://abc-pilsen.github.io/intermediate/ |
+| Advanced | https://github.com/ABC-Pilsen/advanced | https://abc-pilsen.github.io/advanced/ |
 
-The master site can be seen here: d
+The master site can be seen here: https://s-cavalier.github.io/abc-pilsen-main/
 
 ## Lesson Plan
 This is the general sketch of what's to come, but is subject to change based on how well recieved certain topics are.
