@@ -3,13 +3,13 @@ Contains the "starter" website for each session. Mainly used for demonstration a
 For viewing any of the kids websites, view any of the forks above.\
 For viewing the websites, they are listed below.
 
-| Skill Level | Link to Website |
-| ----------- | --------------- |
-| Beginner | a |
-| Intermediate | b |
-| Advanced | c |
+| Skill Level | Link to GitHub | Link to Website |
+| ----------- | --------------- | --------------- |
+| Beginner | https://github.com/ABC-Pilsen/beginner |
+| Intermediate | https://github.com/ABC-Pilsen/intermediate |
+| Advanced | https://github.com/ABC-Pilsen/advanced |
 
-The master can be seen here: d
+The master site can be seen here: d
 
 ## Lesson Plan
 This is the general sketch of what's to come, but is subject to change based on how well recieved certain topics are.
