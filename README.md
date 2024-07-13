@@ -1,7 +1,5 @@
 # ABC Pilsen Web Design - Main
-Contains the "starter" website for each session. Mainly used for demonstration and so we can see it built throughout the session.\
-For viewing any of the kids websites, view any of the forks above.\
-For viewing the websites, they are listed below.
+Contains the "starter" website for each session. 
 
 | Skill Level | Link to GitHub | Link to Website |
 | ----------- | --------------- | --------------- |
