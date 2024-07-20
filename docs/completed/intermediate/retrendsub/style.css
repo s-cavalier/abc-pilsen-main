@@ -1,0 +1,9 @@
+p, h1 {
+    text-align: center;
+    font-family: manga;
+}
+
+@font-face {
+    font-family: manga;
+    src: url(MangabeyRegular-rgqVO.otf);
+}

@@ -1,0 +1,97 @@
+table, tr, td {
+    border: 2px solid black;
+    border-radius: 10px;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px 10px 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: wheat;
+    margin: 0px;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: polyphonic;
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.level_list {
+    display: inline-block;
+    margin-left: 3em;
+    margin-right: 3em;
+    border-top: solid 5px;
+    border-bottom: solid 5px;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+}
+
+.level_list.gray {
+    border-color: rgb(121, 121, 121);
+    background-color: rgb(207, 207, 207);
+}
+
+.level_list.orange {
+    border-color: rgb(163, 79, 0);
+    background-color: rgb(236, 95, 0);
+}
+
+.return {
+    font-family: Arial, Helvetica, sans-serif;
+    left: 10px; 
+    top: 10px; 
+    z-index: 5;
+    position: fixed;
+    background-color: purple; 
+    color: rgb(255, 233, 233); 
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    border: 4px solid rgb(44, 0, 40);
+    border-radius: 1em;
+}
+
+.lists {
+    border-top: 10px rgb(6, 0, 95) solid;
+    background: rgb(9, 0, 134);
+    width: 100%;
+    text-align: center;
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+.footer {
+    text-align: center;
+    background-color: rgb(43, 43, 43);
+}
+
+.footer p {
+    text-align: left;
+    color: rgb(199, 199, 199);
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.footer a:link {
+    color: rgb(96, 112, 255);
+}
+
+.footer a:visited {
+    color: rgb(219, 41, 255);
+}
+
+
+@font-face {
+    font-family: polyphonic;
+    src: url(fonts/polyphonic.ttf);
+}
