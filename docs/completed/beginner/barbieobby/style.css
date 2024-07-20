@@ -1,0 +1,41 @@
+.game_box {
+    left: 12.5%;
+    top: 3em;
+    width: 75%;
+}
+
+.under {
+    position: absolute;
+    z-index: -1;
+    display: inline-block;
+    border: 5px solid black;
+  }
+  
+  .over {
+    position: absolute;
+    z-index: -1;
+    display: inline-block;
+  }
+
+  .over.player {
+    width: 10in;
+    left: 0in;
+    bottom: 0in;
+  }
+
+  .over.player .main {
+    width: 33%;
+  }
+
+  .over.player .jump {
+    width: 33%;
+    position: absolute;
+    left: -1in;
+  }
+
+  .over.player .move {
+    width: 33%;
+    position: absolute;
+    left: 1in;
+  }
+  
