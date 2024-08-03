@@ -24,6 +24,30 @@ p {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+b.htooltip {
+    border-bottom: 1px black dotted;
+    position: relative;
+}
+
+.tooltip {
+    visibility: hidden;
+    font-weight: normal;
+    border-bottom: none;
+    position: absolute;
+    bottom: 20px;
+    left: -172px;
+    background-color: rgba(1, 1, 1, 0.8);
+    color: white;
+    border: solid rgba(1, 1, 1, 0.8) 2px;
+    border-radius: 5px;
+    padding: 9px;
+    width: max-content;
+}
+
+b.htooltip:hover .tooltip {
+    visibility: visible;
+}
+
 .level_list {
     display: inline-block;
     margin-left: 3em;

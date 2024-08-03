@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="../../../boilerplate.css">
     <link rel="stylesheet" href="style.css">
-    <script type="text/javascript" src="script.js"></script>
     <title>Barbie Obby</title>
 </head>
 
@@ -14,11 +14,13 @@
     <div class="game_box">
         <img src="map.png" class="under" />
         <div class="over player">
-            <img src="jump.png" class="jump">
-            <img src="barbie.png" class="main"/>
-            <img src="movef.png" class="move">
+            <img src="jump.png" class="jump mable">
+            <img src="barbie.png" class="main mable"/>
+            <img src="movef.png" class="move mable" onclick="move(true, 0.1, 0)">
+            <img src="turn.png" class="turn mable">
         </div>
     </div>
+    <script type="text/javascript" src="script.js"></script>
 </body>
 
 </html>

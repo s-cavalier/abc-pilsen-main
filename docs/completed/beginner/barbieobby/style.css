@@ -18,13 +18,13 @@
   }
 
   .over.player {
-    width: 10in;
-    left: 0in;
-    bottom: 0in;
   }
+
+  
 
   .over.player .main {
     width: 33%;
+    position: relative;
   }
 
   .over.player .jump {
@@ -38,4 +38,13 @@
     position: absolute;
     left: 1in;
   }
+
+  .over.player .turn {
+    width: 10%;
+    position: absolute;
+    bottom:-1in;
+  }
   
+.mable {
+
+}
