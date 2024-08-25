@@ -1,0 +1,36 @@
+.rows {
+    width: fit-content;
+    height: fit-content;
+    border: 5px solid black;
+    padding-bottom: 10px;
+}
+
+.logo {
+    position: fixed;
+    top:10px;
+    right: 10px;
+    width: 600px;
+    height: 160px;
+    border: 5px solid black;
+}
+
+.quote {
+    position: fixed;
+    bottom:10px;
+    right: 10px;
+    width: 250px;
+    height: 100px;
+    border: 5px solid black;
+}
+
+.tableimg {
+    width: 600px;
+    height: 125px;
+    margin-bottom: -10px;
+    display: block;
+}
+
+.top .tableimg {
+    
+}
+

@@ -24,8 +24,17 @@
 #ball {
     position :absolute ; 
     z-index: 5;
+    width: 10cm;
 }
 
 #fire {
     position: absolute ;
+    z-index: 4;
+}
+
+#wintext {
+    position:absolute;
+    z-index: 6;
+    left: 50px;
+    bottom: 50px;
 }
